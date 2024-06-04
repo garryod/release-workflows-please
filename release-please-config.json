@@ -1,0 +1,19 @@
+{
+  "include-component-in-tag": true,
+  "tag-separator": "@",
+  "separate-pull-requests": true,
+  "packages": {
+    "charts/workflows-cluster": {
+      "package-name": "workflows-cluster",
+      "release-type": "helm"
+    },
+    "charts/workflows": {
+      "package-name": "workflows",
+      "release-type": "helm"
+    },
+    "charts/events": {
+      "package-name": "events",
+      "release-type": "helm"
+    }
+  }
+}
