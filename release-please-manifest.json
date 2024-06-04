@@ -1,5 +1,5 @@
 {
   "charts/events": "0.0.1",
-  "charts/workflows": "0.0.1",
+  "charts/workflows": "0.1.0",
   "charts/workflows-cluster": "0.0.1"
 }
